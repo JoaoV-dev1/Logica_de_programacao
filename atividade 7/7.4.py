@@ -1,0 +1,2 @@
+def fatorial(variavel1):
+    
